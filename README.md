@@ -2,9 +2,9 @@
 
 
 
-To get started:
+## To get started:
 
-- Lecture 1: 
+### Lecture 1: 
  - cd to the root directory of git repository
  - then go up one directory by doing "cd .."
  - then "python -m venv myenv"
