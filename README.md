@@ -21,7 +21,7 @@
 ### Lecture 3: Open Generative QA 
  - #### Description: Answer is from the text but can/will have additional supporting text generated from the model
  - #### Follow Steps: 
-    1. if you don't have a virtual environment created from Lecture 2 above - follow steps 1-7 (including step 7) from Lecture 2. Otherwise, you already have virtual environment, just activate it - cd to "myenv" folder. Then activate it by ".\Scripts\activate"
+    1. if you don't have a virtual environment created from Lecture 2 above - follow steps 1-7 (including step 7) from Lecture 2. Otherwise, you already have virtual environment, just activate it - cd to "myenv" folder. Then activate it by ".\Scripts\activate". Then run step 7 above.
     2. now you must go into lecture 2 by "cd lecture_3"
     3. [Learn the concept] you can open up the interactive.ipynb to play around with the QA software interactively
     4. [Run the code] - run the main.py script "python main.py"
